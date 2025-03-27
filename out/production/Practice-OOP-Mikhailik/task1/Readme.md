@@ -10,7 +10,7 @@
 
 
 ## Скріншот виконання програми
-
+![1.1](https://github.com/veronika020807/Practice-OOP-Mikhailik/blob/main/Practice-OOP-Mikhailik/image/1.1.png?raw=true)
 
 ## Опис
 - Тепер повідомлення у разі відсутності аргументів звучить правильно: “Аргумент командного рядка не передано.”
